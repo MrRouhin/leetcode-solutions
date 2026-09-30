@@ -12,3 +12,4 @@ Update this table every session — it's a growth log across the semester.
 | 26/09 | Binary Search                   | Basic Algorithms | Easy-Medium | ✅ Solved | 
 | 26/09 | Move Zeroes                     | Basic Algorithms | Easy-Medium | ✅ Solved | 
 | 26/09 | Valid Parentheses               | Stacks           | Easy-Medium | ✅ Solved | 
+| 30/09 | reverse linked list             | Linked list      | Easy        | ✅ Solved | 
