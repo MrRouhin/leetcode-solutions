@@ -19,6 +19,7 @@ bool isValid(string s) {
         }
     }
     return st.empty();
+
 }
 
 void runTest(string s, bool expected, string label) {
