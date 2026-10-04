@@ -1,6 +1,6 @@
 # LeetCode Solutions
 
-Riya.R | [R25EJ122]
+Rouhin Ghosh | [R25EJ124]
 
 Personal LeetCode practice log — part of B25GE0101 portfolio.
 
